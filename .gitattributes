@@ -1,0 +1,15 @@
+# Set default behavior to automatically normalize line endings
+* text=auto
+
+# Force Unix-style LF line endings for specific file types
+*.sh text eol=lf
+*.py text eol=lf
+
+# Force Windows-style CRLF line endings for specific file types
+*.bat text eol=crlf
+*.cmd text eol=crlf
+
+# Treat binary files as binary to prevent line ending conversions
+*.png binary
+*.jpg binary
+*.exe binary
