@@ -1,0 +1,21 @@
+2025-05-05 09:30:11,920 - app - ERROR - Calculator error: 'NoneType' object has no attribute 'upper'
+2025-05-05 11:51:14,631 - app - WARNING - No data returned for SBIN.NS
+2025-05-05 11:51:52,839 - app - WARNING - No data returned for SBIN.NS
+2025-05-06 16:00:48,754 - app - ERROR - Error fetching data for ITC.NS: Too Many Requests. Rate limited. Try after a while.
+2025-05-06 17:22:26,839 - app - ERROR - Error fetching data for ITC.NS: Too Many Requests. Rate limited. Try after a while.
+2025-05-06 17:22:35,346 - app - ERROR - Error fetching data for ITC.NS: Too Many Requests. Rate limited. Try after a while.
+2025-05-06 17:22:36,765 - app - ERROR - Error fetching data for ITC.NS: Too Many Requests. Rate limited. Try after a while.
+2025-05-06 17:23:10,749 - app - ERROR - Error fetching data for ITC.NS: Too Many Requests. Rate limited. Try after a while.
+2025-05-06 17:23:12,278 - app - ERROR - Error fetching data for ITC.NS: Too Many Requests. Rate limited. Try after a while.
+2025-05-06 17:26:19,811 - app - ERROR - Error fetching data for HDFCBANK.NS: Too Many Requests. Rate limited. Try after a while.
+2025-05-06 17:31:45,171 - app - ERROR - Error fetching data for INFY.NS: Too Many Requests. Rate limited. Try after a while.
+2025-05-06 17:37:25,499 - app - ERROR - Error fetching data for RELIANCE.NS: Too Many Requests. Rate limited. Try after a while.
+2025-05-06 17:43:42,445 - app - ERROR - Error fetching data for ITC.NS: Too Many Requests. Rate limited. Try after a while.
+2025-05-06 17:48:21,800 - app - ERROR - Error fetching data for HINDUNILVR.NS: Too Many Requests. Rate limited. Try after a while.
+2025-05-15 12:59:19,810 - app - WARNING - No data returned for SBIN.NS
+2025-05-23 11:39:57,217 - app - WARNING - No data returned for AXISBANK.NS
+2025-05-23 11:40:09,524 - app - WARNING - No data returned for HDFCBANK.NS
+2025-05-23 11:40:23,310 - app - WARNING - No data returned for HDFCBANK.NS
+2025-05-24 13:39:28,493 - app - ERROR - Error fetching data for HDFCBANK.NS: Too Many Requests. Rate limited. Try after a while.
+2025-05-24 13:39:55,916 - app - ERROR - Calculator error: Too Many Requests. Rate limited. Try after a while.
+2025-05-24 13:40:04,732 - app - ERROR - Calculator error: Too Many Requests. Rate limited. Try after a while.

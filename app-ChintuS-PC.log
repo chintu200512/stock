@@ -1,0 +1,7 @@
+2025-06-03 20:45:02,092 - app - ERROR - Error fetching data for AXISBANK.NS: Too Many Requests. Rate limited. Try after a while.
+2025-06-03 20:45:03,737 - app - ERROR - Error fetching data for SBIN.NS: Too Many Requests. Rate limited. Try after a while.
+2025-06-03 21:35:15,044 - app - ERROR - Error fetching data for AXISBANK.NS: Too Many Requests. Rate limited. Try after a while.
+2025-06-03 21:36:48,124 - app - ERROR - Error fetching data for AXISBANK.NS: Too Many Requests. Rate limited. Try after a while.
+2025-06-03 21:37:00,791 - app - ERROR - Error fetching data for AXISBANK.NS: Too Many Requests. Rate limited. Try after a while.
+2025-06-03 21:40:32,697 - app - ERROR - [fetch_stock_data] Error fetching data for AXISBANK.NS: Too Many Requests. Rate limited. Try after a while.
+2025-06-03 21:41:08,396 - app - ERROR - [fetch_stock_data] Error fetching data for HINDUNILVR.NS: Too Many Requests. Rate limited. Try after a while.
